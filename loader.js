@@ -34,7 +34,7 @@ function chat(data) {
 	var msg = data.message;
 	var from = data.un;
 
-	if(from === "#Tinkyy") {
+	if(from === "-WAIN") {
 		if(msg === "!meh") {
 			$('#meh').click();
 		}
