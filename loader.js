@@ -34,7 +34,7 @@ function chat(data) {
 	var msg = data.message;
 	var from = data.un;
 
-	if(from === "KillManTV") {
+	if(from === "#Tinkyy") {
 		if(msg === "!meh") {
 			$('#meh').click();
 		}
@@ -43,7 +43,7 @@ function chat(data) {
 		}
 	}
 
-	if(from === "Polkov") {
+	if(from === "MR FALSE") {
 		if(msg === "!meh") {
 			$('#meh').click();
 		}
