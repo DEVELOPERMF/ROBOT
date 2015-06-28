@@ -34,7 +34,7 @@ function chat(data) {
 	var msg = data.message;
 	var from = data.un;
 
-	if(from === "-Vitaly") {
+	if(from === "KillManTV") {
 		if(msg === "!meh") {
 			$('#meh').click();
 		}
