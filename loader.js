@@ -1,4 +1,4 @@
-//vytvorené na bot účely :D
+//Vytvorený MRFALSOM.
 
 $('#woot').click();
 var emojibuttonon = $(".icon-emoji-on");
