@@ -35,19 +35,19 @@ function chat(data) {
 	var from = data.un;
 
 	if(from === "-WAIN") {
-		if(msg === "!meh") {
+		if(msg === "/meh") {
 			$('#meh').click();
 		}
-		if(msg === "!woot") {
+		if(msg === "/woot") {
 			$('#woot').click();
 		}
 	}
 
 	if(from === "MR FALSE") {
-		if(msg === "!meh") {
+		if(msg === "/meh") {
 			$('#meh').click();
 		}
-		if(msg === "!woot") {
+		if(msg === "/woot") {
 			$('#woot').click();
 		}
 	}
