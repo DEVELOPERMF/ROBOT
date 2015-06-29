@@ -21,6 +21,7 @@ if (videooff.length > 0) {
 }
 
 API.sendChat("/cap 1");
+API.sendChat("/me AutoWoot online! Vytvorený MRFALSE.")
 API.setVolume(0);
 
 API.on(API.CHAT, chat);
