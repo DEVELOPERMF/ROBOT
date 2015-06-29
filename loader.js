@@ -1,4 +1,4 @@
-//Vytvorený MRFALSOM.
+//AutoWoot vytvorený MRFALSOM. https://plug.dj/mr-false
 
 $('#woot').click();
 var emojibuttonon = $(".icon-emoji-on");
