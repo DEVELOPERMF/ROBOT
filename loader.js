@@ -3,9 +3,9 @@
 $('#woot').click();
 var emojibuttonon = $(".icon-emoji-on");
 if (emojibuttonon.length > 0) {
-	emojibuttonon[0].click();
+    emojibuttonon[0].click();
 }
-API.chatLog('AutoWoot je online! Vytvorené MRFALSOM.');
+API.chatLog('Emotikony offline.');
 {
 var onlyaudio = $(".item.s-vo");
 if (onlyaudio.length > 0) {
