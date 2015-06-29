@@ -3,10 +3,8 @@
 $('#woot').click();
 var emojibuttonon = $(".icon-emoji-on");
 if (emojibuttonon.length > 0) {
-    emojibuttonon[0].click();
+	emojibuttonon[0].click();
 }
-API.chatLog('Emotikony offline.');
-{
 var onlyaudio = $(".item.s-vo");
 if (onlyaudio.length > 0) {
 	onlyaudio[0].click();
