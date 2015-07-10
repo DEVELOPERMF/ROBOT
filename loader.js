@@ -44,7 +44,7 @@ function chat(data) {
 		}
 	}
 
-	if(from === "MR FALSE") {
+	if(from === "MRFALSE") {
 		if(msg === "!meh") {
 			$('#meh').click();
 		}
