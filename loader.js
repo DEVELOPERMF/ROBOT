@@ -1,4 +1,4 @@
-//AutoWoot vytvorený MRFALSOM. https://plug.dj/mr-false
+//AutoWoot vytvorený THEFALSOM. https://plug.dj/m-f-e
 
 $('#woot').click();
 var emojibuttonon = $(".icon-emoji-on");
@@ -44,7 +44,7 @@ function chat(data) {
 		}
 	}
 
-	if(from === "MRFALSE") {
+	if(from === "NanoBytez") {
 		if(msg === "!meh") {
 			$('#meh').click();
 		}
